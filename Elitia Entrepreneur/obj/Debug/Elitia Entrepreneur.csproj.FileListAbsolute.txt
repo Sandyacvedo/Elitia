@@ -1,0 +1,42 @@
+c:\users\sandy\documents\visual studio 2015\Projects\Elitia Entrepreneur\Elitia Entrepreneur\bin\Debug\Elitia Entrepreneur.exe.config
+C:\Users\Sandy\documents\visual studio 2015\Projects\Elitia Entrepreneur\Elitia Entrepreneur\bin\Debug\Elitia Entrepreneur.exe
+C:\Users\Sandy\documents\visual studio 2015\Projects\Elitia Entrepreneur\Elitia Entrepreneur\bin\Debug\Elitia Entrepreneur.pdb
+C:\Users\Sandy\documents\visual studio 2015\Projects\Elitia Entrepreneur\Elitia Entrepreneur\obj\Debug\Elitia_Entrepreneur.Properties.Resources.resources
+C:\Users\Sandy\documents\visual studio 2015\Projects\Elitia Entrepreneur\Elitia Entrepreneur\obj\Debug\Elitia Entrepreneur.csproj.GenerateResource.Cache
+C:\Users\Sandy\documents\visual studio 2015\Projects\Elitia Entrepreneur\Elitia Entrepreneur\obj\Debug\Elitia Entrepreneur.exe
+C:\Users\Sandy\documents\visual studio 2015\Projects\Elitia Entrepreneur\Elitia Entrepreneur\obj\Debug\Elitia Entrepreneur.pdb
+C:\Users\Sandy\documents\visual studio 2015\Projects\Elitia Entrepreneur\Elitia Entrepreneur\obj\Debug\Elitia_Entrepreneur.Herencia.resources
+C:\Users\Sandy\documents\visual studio 2015\Projects\Elitia Entrepreneur\Elitia Entrepreneur\bin\Debug\MetroFramework.Design.dll
+C:\Users\Sandy\documents\visual studio 2015\Projects\Elitia Entrepreneur\Elitia Entrepreneur\bin\Debug\MetroFramework.dll
+C:\Users\Sandy\documents\visual studio 2015\Projects\Elitia Entrepreneur\Elitia Entrepreneur\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur\Elitia Entrepreneur\bin\Debug\Guna.UI2.dll
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur\Elitia Entrepreneur\obj\Debug\Elitia_Entrepreneur.InicioSesion.resources
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur\Elitia Entrepreneur\obj\Debug\Elitia_Entrepreneur.Registrarse.resources
+C:\Users\Sandy\documents\visual studio 2015\Projects\Elitia Entrepreneur\Elitia Entrepreneur\obj\Debug\Elitia Entrepreneur.csprojResolveAssemblyReference.cache
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\bin\Debug\Elitia Entrepreneur.exe.config
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia Entrepreneur.exe
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia Entrepreneur.pdb
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\bin\Debug\Elitia Entrepreneur.exe
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\bin\Debug\Elitia Entrepreneur.pdb
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\bin\Debug\Guna.UI2.dll
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\bin\Debug\MetroFramework.Design.dll
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\bin\Debug\MetroFramework.dll
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia_Entrepreneur.InicioSesion.resources
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia_Entrepreneur.Properties.Resources.resources
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia_Entrepreneur.Registrarse.resources
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia Entrepreneur.csproj.GenerateResource.Cache
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia.Heredar.resources
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia_Entrepreneur.Menu.resources
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia_Entrepreneur.Formularios.Secciones.Publicaciones.resources
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia_Entrepreneur.Formularios.Secciones.Tarea.resources
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia_Entrepreneur.Formularios.Secciones.Proyectos.resources
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia_Entrepreneur.Formularios.Secciones.Mantenimiento.mantenimiento_Proyecto.resources
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia_Entrepreneur.Formularios.Secciones.Integrantes.resources
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia_Entrepreneur.Formularios.Secciones.Mantenimiento.mantenimiento_Tarea.resources
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia_Entrepreneur.Formularios.Secciones.Mantenimiento.Mantenimiento_integrante.resources
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia Entrepreneur.csprojResolveAssemblyReference.cache
+C:\Users\Sandy\Documents\Visual Studio 2015\Projects\Elitia Entrepreneur - v1\Elitia Entrepreneur\obj\Debug\Elitia_Entrepreneur.Formularios.Secciones.Detalle.Detalle_publicacion.resources
+D:\03. Documentos\08. Tareas\04. Desarrollo y Administracion de Software\Proyecto\Elitia Entrepreneur\Elitia Entrepreneur\bin\Debug\Elitia Entrepreneur.exe.config
+D:\03. Documentos\08. Tareas\04. Desarrollo y Administracion de Software\Proyecto\Elitia Entrepreneur\Elitia Entrepreneur\obj\Debug\Elitia Entrepreneur.exe
+D:\03. Documentos\08. Tareas\04. Desarrollo y Administracion de Software\Proyecto\Elitia Entrepreneur\Elitia Entrepreneur\obj\Debug\Elitia Entrepreneur.pdb
